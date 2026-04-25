@@ -1,0 +1,6 @@
+html {background-image:url(4b6ead04c474ffb408d5ce7c5a0b51e9.jpg)}
+p {color:rgb(120, 70, 166);font-size: larger;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+#main-zone {display:flex;justify-content: center;align-items: center;gap: 20px}
+#main-zone img {width: 300px;height: auto}
+#top-zone img {width: 450px;height: 400px ;display: block;margin: 20px auto;}
+#top-zone p {text-align: center;max-width: 600px;margin: 0 auto;background: #ffe6fe;padding: 20px;flex: 2;}

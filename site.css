@@ -6,3 +6,15 @@ p {color: rgb(134, 75, 207); font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
 ol {color: rgb(134, 75, 207);font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 a {color: rgb(134, 75, 207);font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 img {width:250; height:350; border: 5px solid rgb(133, 238, 249);border-radius: 8px;}
+#page { max-width: 900px; margin: 0 auto 0 auto; background: rgb(253, 235, 255); padding: 30px;}
+.top-section {display: flex; gap: 30px;align-items: flex-start; margin: 0 0 25px 0;}
+#introduction {background: #d2f6ff;padding: 20px;flex: 2;}
+#introduction h2 {font-style: italic;margin-top: 0;}
+#introduction p {font-size: 120%;line-height: 1.5;}
+.profile {text-align: center;flex: 1;}
+.profile img {width: 250px;border-radius: 12px;}
+.profile p {font-size: 90%;}
+.navigation {background: #ece1ff; padding: 20px;border-radius: 12px;}
+.navigation h2 {margin-top: 0;}
+.navigation li {margin-bottom: 8px;}
+.navigation a {color: #431184;font-weight: bold;}
